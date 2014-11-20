@@ -2,6 +2,8 @@ WEB301-class-project-for-Fall14
 ===============================
 
 Home for WEB301 class project 
+<<<<<<< HEAD
+=======
 
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -12,6 +14,9 @@ Testing_2
 <<<<<<< HEAD
 
 Making another change in a readme file....
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 =======
 =======
 <<<<<<< Updated upstream
@@ -48,6 +53,10 @@ cleaned-up readme
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 
 Added a Bear
 
+=======
+>>>>>>> FETCH_HEAD
+>>>>>>> FETCH_HEAD
