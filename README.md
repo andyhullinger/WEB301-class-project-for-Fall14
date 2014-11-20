@@ -48,3 +48,6 @@ cleaned-up readme
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+
+Added a Bear
+
