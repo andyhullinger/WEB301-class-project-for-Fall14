@@ -4,6 +4,7 @@ WEB301-class-project-for-Fall14
 Home for WEB301 class project 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Testing_1
 Testing_2
 =======
@@ -24,3 +25,7 @@ wtf@!
 
 
 Frankie's turn________:)
+=======
+
+Making another change in a readme file....
+>>>>>>> FETCH_HEAD
