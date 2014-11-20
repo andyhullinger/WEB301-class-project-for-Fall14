@@ -53,4 +53,10 @@ cleaned-up readme
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+
+Added a Bear
+
+=======
+>>>>>>> FETCH_HEAD
 >>>>>>> FETCH_HEAD
